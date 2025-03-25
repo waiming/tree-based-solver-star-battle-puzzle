@@ -2,7 +2,7 @@
 Tree based method to sovle for Star battle puzzle
 
 ## Introduction
-This project trains a reinforcement learning agent using Tree and backtracking to solve the 6x6, 1-star-per-row Puzzle Star Battle.
+This project uses Tree and backtracking to solve the 6x6, 1-star-per-row Puzzle Star Battle.
 
 ## Structure
 - `src/`: script
